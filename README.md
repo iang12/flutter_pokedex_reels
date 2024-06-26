@@ -1,7 +1,7 @@
 # flutter_animations_reels
 
-A new Flutter project.
 
+<img src="print.png" height="500em"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
